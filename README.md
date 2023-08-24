@@ -1,4 +1,4 @@
-# latihan-custome-exception-android
+# Latihan Custom Exception Android
 Contoh Custom Exception pada aplikasi Android.
 
 Penjelasan berada di medium 
